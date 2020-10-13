@@ -1,0 +1,386 @@
+{
+    "root": {
+        "data": {
+            "id": "c6bnd04mmdc0",
+            "created": 1602580460812,
+            "text": "模块二part2 "
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c6bnfbt2zpk0",
+                    "created": 1602580642964,
+                    "text": "webpack打包",
+                    "layout_mind_offset": {
+                        "x": 103,
+                        "y": 162
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c6bnjracl3s0",
+                            "created": 1602580990116,
+                            "text": "webpack快速上手"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjrtg4o80",
+                            "created": 1602580991271,
+                            "text": "webpack配置文件"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjrwmdgg0",
+                            "created": 1602580991463,
+                            "text": "webpack打包结果及运行原理"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjrzp53k0",
+                            "created": 1602580991649,
+                            "text": "webpack资源模块加载和导入资源模块"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjs2wy740",
+                            "created": 1602580991844,
+                            "text": "webpack文件资源加载器和URL加载器"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjs5tzm80",
+                            "created": 1602580992020,
+                            "text": "webpack常用加载器分类"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjs90xqo0",
+                            "created": 1602580992213,
+                            "text": "webpack加载资源的方式"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjsbsy200",
+                            "created": 1602580992381,
+                            "text": "webpack插件机制和使用"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjsenbg00",
+                            "created": 1602580992553,
+                            "text": "webpack自动编译和自动刷新浏览器"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjshvq2w0",
+                            "created": 1602580992749,
+                            "text": "webpack dev server 静态资源访问，代理api"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnjskrox40",
+                            "created": 1602580992923,
+                            "text": "webpack的source Map 介绍和配置"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnmrkx85s0",
+                            "created": 1602581225848,
+                            "text": "webpack开启HMR，HMR的使用和注意事项"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnny88tkg0",
+                            "created": 1602581318683,
+                            "text": "webpack HMR处理js模块和图片模块热替换"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnnybcns00",
+                            "created": 1602581318871,
+                            "text": "webpack DefinePlugin 设置全局变量"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnnyeghaw0",
+                            "created": 1602581319059,
+                            "text": "webpack体验Tree Shaking和使用"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnnyh8bzk0",
+                            "created": 1602581319227,
+                            "text": "webpack代码分割，多入口打包，提取公共模块，动态导入等"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnnyke0nk0",
+                            "created": 1602581319418,
+                            "text": "webpack魔法注释，压缩额外生成的css文件，输出文件名hash"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c6bnfctfnts0",
+                    "created": 1602580645162,
+                    "text": "规范化标准",
+                    "layout_mind_offset": {
+                        "x": 128,
+                        "y": 471
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c6bnshp6r9c0",
+                            "created": 1602581674523,
+                            "text": "规范化介绍"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnsifpt940",
+                            "created": 1602581676127,
+                            "text": "eslint介绍，安装和快速上手"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnsiim9mo0",
+                            "created": 1602581676303,
+                            "text": "eslint配置文件解析和配置注释"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnsim0fog0",
+                            "created": 1602581676508,
+                            "text": "eslint结和自动化工具"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnsiohcyo0",
+                            "created": 1602581676657,
+                            "text": "eslint结合webpack"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnsir9dds0",
+                            "created": 1602581676825,
+                            "text": "现代化项目集成eslint"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnttxyt0w0",
+                            "created": 1602581779540,
+                            "text": "eslint检查ts"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bntu5o7co0",
+                            "created": 1602581780006,
+                            "text": "prettier的使用"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bntuew7340",
+                            "created": 1602581780563,
+                            "text": "git hooks工作机制，eslint结合git hooks"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c6bngmudomo0",
+                    "created": 1602580745351,
+                    "text": "其他打包工具",
+                    "layout_mind_offset": {
+                        "x": 962,
+                        "y": 559
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c6bnqkl0wfk0",
+                            "created": 1602581524074,
+                            "text": "Rollup介绍和快速上手"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnqlrd8mg0",
+                            "created": 1602581526634,
+                            "text": "Rollup配置文件"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnqludgmw0",
+                            "created": 1602581526816,
+                            "text": "Rollup使用插件，加载npm模块和加载commonJS模块"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnqlx7u540",
+                            "created": 1602581526988,
+                            "text": "Rollup代码拆分和多入口打包，选用原则"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnqlzzol40",
+                            "created": 1602581527155,
+                            "text": "Parcel的使用"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c6bnfdl2l680",
+                    "created": 1602580646833,
+                    "text": "模块化开发",
+                    "layout_mind_offset": {
+                        "x": 826,
+                        "y": -828
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c6bngyu4i3k0",
+                            "created": 1602580771457,
+                            "text": "模块化的概述及演变过程",
+                            "layout_right_offset": {
+                                "x": 64,
+                                "y": -106
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnhagd5wg0",
+                            "created": 1602580796746,
+                            "text": "模块化标准规范",
+                            "layout_right_offset": {
+                                "x": 66,
+                                "y": -98
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnhaop4y00",
+                            "created": 1602580797250,
+                            "text": "ESModules特性",
+                            "layout_right_offset": {
+                                "x": 70,
+                                "y": -103
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnhas0kvk0",
+                            "created": 1602580797451,
+                            "text": "ESModules导出导入用法及注意事项等",
+                            "layout_right_offset": {
+                                "x": 75,
+                                "y": -104
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnhavl75s0",
+                            "created": 1602580797667,
+                            "text": "ESMoules浏览器环境polyfill",
+                            "layout_right_offset": {
+                                "x": 80,
+                                "y": -110
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6bnhayhkpk0",
+                            "created": 1602580797842,
+                            "text": "topic",
+                            "layout_right_offset": {
+                                "x": 89,
+                                "y": -117
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
